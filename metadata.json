@@ -1,0 +1,6 @@
+{
+  "name": "Ashiyana Design Studio",
+  "description": "Premium architecture, modern interior design, and 3D visualization studio in Sanjay Place, Agra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
